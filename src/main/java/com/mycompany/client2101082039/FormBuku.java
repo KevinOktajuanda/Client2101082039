@@ -13,7 +13,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Bintang
+ * @author ASUS
  */
 public class FormBuku extends javax.swing.JFrame {
 

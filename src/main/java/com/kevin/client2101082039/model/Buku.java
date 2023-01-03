@@ -6,7 +6,7 @@ package com.kevin.client2101082039.model;
 
 /**
  *
- * @author Acer
+ * @author ASUS
  */
 public class Buku {
    

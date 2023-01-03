@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Acer
+ * @author ASUS
  */
 public class BukuController {
   

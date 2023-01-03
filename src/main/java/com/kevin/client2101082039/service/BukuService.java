@@ -15,7 +15,7 @@ import kong.unirest.Unirest;
 
 /**
  *
- * @author Acer
+ * @author ASUS
  */
 public class BukuService {
 
